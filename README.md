@@ -1,8 +1,4 @@
-# turtlebot3_localization-2D Kalman Filter
-
-## Special thanks to **Ebrahim Abdelghafar** for creating this package. You can find his GitHub profile [here](https://github.com/ebrahimabdelghfar).
-
-
+# Turtlebot3_localization-2D Kalman Filter
 
 # Project
 This project focuses on localization for the TurtleBot3 robot using ROS (Robot Operating System). It provides the necessary packages and configuration for accurate robot localization in a simulated environment, achieved through the implementation of 2D Kalman filter.
